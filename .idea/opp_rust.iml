@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_project/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_project/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_project/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_project/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/add_constructor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/add_constructor/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/add_constructor/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/add_constructor/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/hide_private_fields/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hide_private_fields/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hide_private_fields/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/hide_private_fields/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/common_enums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common_enums/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common_enums/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/common_enums/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheritance/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheretence/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheretence/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheretence/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/using_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/using_traits/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/using_traits/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/using_traits/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/do_print/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/do_print/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/do_print/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/do_print/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/do_print_usung_function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/do_print_usung_function/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/do_print_usung_function/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/do_print_usung_function/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/do_inheritance/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/do_inheretence/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/do_inheretence/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/do_inheretence/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/do_inheritance/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/do_inheritance/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/do_inheritance/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheretance/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheretance/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheretance/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheritance/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheritance/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple_inheritance/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/add_constructor/target" />
+      <excludeFolder url="file://$MODULE_DIR$/common_enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/do_inheretence/target" />
+      <excludeFolder url="file://$MODULE_DIR$/do_inheritance/target" />
+      <excludeFolder url="file://$MODULE_DIR$/do_print/target" />
+      <excludeFolder url="file://$MODULE_DIR$/do_print_usung_function/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hide_private_fields/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_inheretance/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_inheretence/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_inheritance/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simple_project/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/using_traits/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,13 @@
+[workspace]
+
+members=[
+"simple_project",
+"add_constructor",
+"hide_private_fields",
+"common_enums",
+"simple_inheritance",
+"using_traits",
+"do_print",
+"do_print_usung_function",
+"do_inheritance",
+]
